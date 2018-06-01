@@ -1,0 +1,27 @@
+package recitation;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String str = new String();
+		str = "rooftop";
+		str = reverse(str);
+	}
+
+	
+	public static String reverse(String str) {
+		String reversed = new String();
+		reversed = "";
+		reverseRecur(str, str.length() - 1, reversed);
+		return reversed;
+	}
+	
+	public static void reverseRecur(String str, int back, String reversed) {
+		if (back < 0) {
+			return;
+		}
+		reversed = reversed + str.charAt(back);
+		reverseRecur(str, back-1, reversed);
+	}
+}

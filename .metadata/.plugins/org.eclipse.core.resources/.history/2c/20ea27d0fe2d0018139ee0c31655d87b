@@ -1,0 +1,65 @@
+package recitation;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String str = new String();
+		str = "rooftop";
+		System.out.println(str);
+		str = reverse(str);
+		System.out.println(str);
+
+	}
+
+	
+	public static String reverse(String str) {
+		String reversed = new String();
+		reversed = "";
+		reversed = reverseRecur(str, str.length() - 1, reversed);
+		return reversed;
+	}
+	
+	public static String reverseRecur(String str, int back, String reversed) {
+		if (back < 0) {
+			return reversed;
+		}
+		reversed = reversed + str.charAt(back);
+		return reverseRecur(str, back-1, reversed);
+	}
+	
+	public int numIslands(char[][] grid) {
+		boolean[][] boolGrid = new boolean[grid.length][grid[0].length];
+		int returnNum = 0;
+		for (int i = 0; i < grid.length; i++) {
+			for(int j = 0; j < grid[0].length; j++) {
+				if (grid[i][j] == 1 && !boolGrid[i][j]) {
+					returnNum = returnNum + 1;
+					numIslandsRecur(grid, boolGrid, i, j);
+				}
+			}
+		}
+		
+		return returnNum;
+	}
+	
+	public void numIslandsRecur(char[][] grid, boolean[][] boolGrid, int row, int col) {
+		boolGrid[row][col] = true;
+		if ((grid[row-1][col] == 0 || boolGrid[row-1][col]) && (grid[row+1][col] == 0 || boolGrid[row+1][col]) && (grid[row][col-1] == 0 || boolGrid[row][col-1]) && (grid[row][col+1] == 0 || boolGrid[row][col+1])) {
+			return;
+		}
+		if (grid[row+1][col] == 1 && !boolGrid[row+1][col]) {
+			numIslandsRecur(grid, boolGrid, row+1, col);
+		}
+		if (grid[row][col-1] == 1 && !boolGrid[row][col-1]) {
+			numIslandsRecur(grid, boolGrid, row, col-1);
+		}
+		if (grid[row-1][col] == 1 && !boolGrid[row-1][col]) {
+			numIslandsRecur(grid, boolGrid, row-1, col);
+		}
+		if (grid[row][col+1] == 1 && !boolGrid[row][col+1]) {
+			numIslandsRecur(grid, boolGrid, row, col+1);
+		}
+	}
+	
+}

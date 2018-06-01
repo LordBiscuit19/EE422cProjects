@@ -1,0 +1,250 @@
+Fresh asks - do you have a 7
+Prince says - Yes I Have A 7
+Fresh books the 7
+
+Fresh asks - do you have a 8
+Prince says - Yes I Have A 8
+Fresh books the 8
+
+Fresh asks - do you have a j
+Prince says - Go Fish
+Fresh draws 7h
+
+Prince asks - do you have a 4
+Fresh says - Go Fish
+Prince draws 4c
+
+Fresh asks - do you have a A
+Prince says - Go Fish
+Fresh draws 4d
+
+Prince asks - do you have a 6
+Fresh says - Go Fish
+Prince draws qs
+
+Fresh asks - do you have a A
+Prince says - Go Fish
+Fresh draws 10c
+
+Prince asks - do you have a 6
+Fresh says - Go Fish
+Prince draws Ah
+
+Fresh asks - do you have a 4
+Prince says - Go Fish
+Fresh draws jh
+
+Prince asks - do you have a 6
+Fresh says - Go Fish
+Prince draws 2c
+
+Fresh asks - do you have a 5
+Prince says - Go Fish
+Fresh draws 10s
+
+Prince asks - do you have a A
+Fresh says - Yes I Have A A
+Prince books the A
+
+Prince asks - do you have a 6
+Fresh says - Go Fish
+Prince draws 3h
+
+Fresh asks - do you have a 5
+Prince says - Go Fish
+Fresh draws 9s
+
+Prince asks - do you have a 3
+Fresh says - Yes I Have A 3
+Prince books the 3
+
+Prince asks - do you have a 2
+Fresh says - Yes I Have A 2
+Prince books the 2
+
+Prince asks - do you have a 6
+Fresh says - Go Fish
+Prince draws 5s
+
+Fresh asks - do you have a 4
+Prince says - Go Fish
+Fresh draws kd
+
+Prince asks - do you have a 5
+Fresh says - Yes I Have A 5
+Prince books the 5
+
+Prince asks - do you have a 6
+Fresh says - Go Fish
+Prince draws 5c
+
+Fresh asks - do you have a k
+Prince says - Go Fish
+Fresh draws 9c
+
+Prince asks - do you have a 6
+Fresh says - Go Fish
+Prince draws jd
+
+Fresh asks - do you have a 4
+Prince says - Go Fish
+Fresh draws 4h
+
+Prince asks - do you have a 5
+Fresh says - Go Fish
+Prince draws 7c
+
+Fresh asks - do you have a k
+Prince says - Go Fish
+Fresh draws kc
+
+Prince asks - do you have a 6
+Fresh says - Go Fish
+Prince draws qh
+
+Fresh asks - do you have a 7
+Prince says - Yes I Have A 7
+Fresh books the 7
+
+Fresh has no cards
+Fresh draws 10h
+
+Prince asks - do you have a j
+Fresh says - Go Fish
+Prince draws 2h
+
+Fresh asks - do you have a 10
+Prince says - Go Fish
+Fresh draws 10d
+
+Prince asks - do you have a q
+Fresh says - Go Fish
+Prince draws qd
+
+Fresh has no cards
+Fresh draws 9h
+
+Prince asks - do you have a 6
+Fresh says - Go Fish
+Prince draws Ad
+
+Fresh asks - do you have a 9
+Prince says - Go Fish
+Fresh draws jc
+
+Prince asks - do you have a 2
+Fresh says - Go Fish
+Prince draws 5d
+
+Fresh asks - do you have a j
+Prince says - Yes I Have A j
+Fresh books the j
+
+Fresh asks - do you have a 9
+Prince says - Go Fish
+Fresh draws 3s
+
+Prince asks - do you have a 6
+Fresh says - Go Fish
+Prince draws 6s
+
+Fresh asks - do you have a 9
+Prince says - Go Fish
+Fresh draws 6c
+
+Prince asks - do you have a A
+Fresh says - Go Fish
+Prince draws 9d
+
+Fresh asks - do you have a 3
+Prince says - Go Fish
+Fresh draws kh
+
+Prince asks - do you have a A
+Fresh says - Go Fish
+Prince draws 6d
+
+Fresh asks - do you have a 3
+Prince says - Go Fish
+Fresh draws As
+
+Prince asks - do you have a 2
+Fresh says - Go Fish
+Prince draws 2s
+
+Fresh asks - do you have a A
+Prince says - Yes I Have A A
+Fresh books the A
+
+Fresh asks - do you have a 3
+Prince says - Go Fish
+Fresh draws ks
+
+Prince asks - do you have a 6
+Fresh says - Yes I Have A 6
+Prince books the 6
+
+Prince asks - do you have a 9
+Fresh says - Yes I Have A 9
+Prince books the 9
+
+Prince has no cards
+Prince draws 3d
+
+Fresh has - 12 books:
+7s
+7d
+8h
+8s
+js
+jh
+10c
+10s
+9s
+9c
+4d
+4h
+kd
+kc
+7h
+7c
+10h
+10d
+jc
+jd
+As
+Ad
+kh
+ks
+
+
+Prince has - 13 books:
+8d
+8c
+4s
+4c
+qc
+qs
+Ah
+Ac
+3h
+3c
+2c
+2d
+5s
+5h
+qh
+qd
+5c
+5d
+6h
+6s
+2h
+2s
+6d
+6c
+9d
+9h
+
+
+Prince Wins!

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="gofish_assn/src"/>
+	<classpathentry kind="src" path="Project1/src"/>
+	<classpathentry kind="src" path="Project2/EE422C_Projects/assignment1/src"/>
+	<classpathentry kind="src" path="Project2/EE422C_Projects/assignment2/src"/>
+	<classpathentry kind="src" path="Project2/EE422C_Projects/EE422C_Projects/assignment1/src"/>
+	<classpathentry kind="src" path="Project2/EE422C_Projects/EE422C_Projects/assignment2/src"/>
+	<classpathentry kind="src" path="WordLadder/src"/>
+	<classpathentry kind="output" path="Project1/bin"/>
+</classpath>
